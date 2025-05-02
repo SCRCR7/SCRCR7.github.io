@@ -6,17 +6,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Let's+build+awesome+websites!;Full+Stack+Developer+in+Progress+🚀;WordPress+%7C+React+%7C+Express+%7C+Node.js" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Let's+build+awesome+websites!;Full+Stack+Developer+in+Progress+🚀;WordPress+%7C+React+%7C+Express+%7C+Node.js" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working as a **Freelance Web Developer** on Fiverr
-- 🌱 Learning **Full Stack Development (MERN)** & **DSA for Interviews**
-- 💼 Specializing in **WordPress**, **Elementor**, and **UI/UX Design**
-- 🧠 Currently studying **Computer Software Engineering** at IMSciences
+- 🔭 I’m currently working as a **Freelance Web Developer** on Fiverr  
+- 🌱 Learning **Full Stack Development (MERN)** & **DSA for Interviews**  
+- 💼 Specializing in **WordPress**, **Elementor**, and **UI/UX Design**  
+- 🧠 Currently studying **Computer Software Engineering** at IMSciences  
 - 📬 How to reach me: **sohaibdevofficial@gmail.com**
 
 ---
@@ -48,7 +48,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=scrcr7&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com?user=scrcr7&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scrcr7&theme=tokyonight" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -77,6 +77,6 @@
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
 ⭐ _Thanks for visiting! Don’t forget to star and follow!_
