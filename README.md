@@ -15,7 +15,7 @@
 - 🔭 I’m currently building **client websites and ecommerce stores**  
 - 🌱 Learning **Data Structures, Algorithms, and Backend Development**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
-- 📫 How to reach me: **youremail@example.com**
+- 📫 How to reach me: **sohaibhassancc@gmail.com**
 - ⚡ Fun fact: I started with WordPress and now enjoy full-stack development too!
 
 ---
